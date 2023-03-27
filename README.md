@@ -5,7 +5,9 @@
 <br/>  
   
 
-### <div align="center">Hi, I'm Wilian Henrique - a full-stack developer with 3 years of experience in web development based in Brazil. I work remotely on exciting projects and enjoy learning new technologies to build innovative solutions that make a difference. Let's connect on LinkedIn!!</div>  
+### <div align="center">Hi, I'm Wilian Henrique - a full-stack developer with 3 years of experience in web development based in Brazil. I work remotely on exciting projects and enjoy learning new technologies to build innovative solutions that make a difference. Let's connect on [LinkedIn](https://www.linkedin.com/in/[wilianhw](https://www.linkedin.com/in/wilian-henrique-de-souza/)
+
+!!</div>  
   
 
 <br/>  
