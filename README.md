@@ -32,6 +32,22 @@
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
   <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
 </div>
+  
+<br/>  
+
+
+## Connect with me  
+  <div align="center">
+    <a href="https://github.com/wilianhw" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://linkedin.com/in/wilian-henrique-de-souza" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>  
+  </div>  
+  
+
+<br/>  
 
 <!--
 **wilianhw/wilianhw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
