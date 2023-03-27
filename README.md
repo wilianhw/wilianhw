@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://github.com/wilianhw/wilianhw/blob/9c31759101e9e2f258b7123726230ff8bfb02f9e/github-profile-header.png" align="center" style="width: 100%" />
 </div>  
+
+<br/>  
   
 
 ### <div align="center">Hi, I'm Wilian Henrique - a full-stack developer with 3 years of experience in web development based in Brazil. I work remotely on exciting projects and enjoy learning new technologies to build innovative solutions that make a difference. Let's connect  Let's connect on LinkedIn!!</div>  
