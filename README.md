@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/wilianhw/wilianhw/blob/9c31759101e9e2f258b7123726230ff8bfb02f9e/github-profile-header.png" align="center" style="width: 100%" />
+<img src="https://github.com/wilianhw/wilianhw/blob/main/github-header.png" align="center" style="width: 100%" />
 </div>  
 
 <br/>  
